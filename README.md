@@ -18,9 +18,9 @@
 
 ## :dart: About ##
 
-Map de visualisation de multitudes de données.
+Visualization map of multiple data sets.
 
-Téléchargement des données du gourvenement (90GO) Lien : https://www.data.gouv.fr/fr/datasets/base-de-donnees-nationale-des-batiments/
+Download data from the government (90GB) Link: https://www.data.gouv.fr/fr/datasets/base-de-donnees-nationale-des-batiments/
 
 
 
@@ -29,29 +29,32 @@ Téléchargement des données du gourvenement (90GO) Lien : https://www.data.gou
 :heavy_check_mark: Store the data in a queue in order to be able to multiply the input sources ;\
 
 
-## :sparkles: Competences ##
 
-- **Graphiques :**
-    - Au moins deux graphiques en plus de la carte 
-    - Titre et une légende pour chaque graphique
-- **Analyse de texte :**
-    - Scraper du site https://bien-dans-ma-ville.fr
-- **Schéma d'architecture :**
-    - Description des liens entre SQL, NoSQL et le scraping
-- **Visualisations :**
-    - Utilisation d'au moins trois types de visualisation différents
-- **Types de vues :**
-    - Poposition des vues par villes, régions et départements
-- **Mise à l'échelle de la carte :**
-    - Scaling de la carte
-- **Librairies :**
-    - Utilisation d'au moins trois librairies différentes
-- **Cartographie et analyse textuelle :**
-    - Inclure des éléments de cartographie et des analyses textuelles
-- **NLP :**
-    - Analyser les avis des habitants sur le marché du logement et le contexte social
-- **Optimisation des requêtes :**
-    - Optimisation des requêtes grâce à l'indexation de la base de données
+
+## :sparkles: Skills ##
+
+- **Graphics:**
+    - At least two graphics in addition to the map
+    - Title and a legend for each graphic
+- **Text Analysis:**
+    - Scrape from the website https://bien-dans-ma-ville.fr
+- **Architecture Diagram:**
+    - Description of the links between SQL, NoSQL, and scraping
+- **Visualizations:**
+    - Use of at least three different types of visualization
+- **Types of Views:**
+    - Proposal of views by cities, regions, and departments
+- **Map Scaling:**
+    - Scaling of the map
+- **Libraries:**
+    - Use of at least three different libraries
+- **Mapping and Textual Analysis:**
+    - Include elements of mapping and textual analyses
+- **NLP:**
+    - Analyze residents' reviews on the housing market and social context
+- **Query Optimization:**
+    - Optimize queries through database indexing
+
 
 ## :rocket: Technologies ##
 
