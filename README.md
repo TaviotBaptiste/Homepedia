@@ -1,5 +1,5 @@
 
-<h1 align="center">Homepedia</h1>
+<h1 align="center">T-DAT-902-LYO_12</h1>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -193,7 +193,7 @@ $ npm run dev
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](https://github.com/TaviotBaptiste/Homepedia/blob/main/LICENSE) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
 Made with :heart: by <a href="https://github.com/ArthurDufay" target="_blank">Arthur DUFAY</a>, <a href="https://github.com/mamanin" target="_blank">Max MANIN</a>, <a href="https://github.com/ltournayre" target="_blank">Lola TOURNAYRE</a>, <a href="https://github.com/TaviotBaptiste" target="_blank">Baptiste TAVIOT</a>
