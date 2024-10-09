@@ -74,7 +74,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), [
 
 The **architecture** of the project
 
-<img width="634" alt="Architecture projet" src="https://github.com/EpitechMscProPromo2024/T-DAT-902-LYO_12/assets/116549451/249342eb-5f44-4e2a-be15-d8fb1e629e3a">
+![architecture projet Homepedia](https://github.com/user-attachments/assets/5fd5a8b4-9b3e-4ec6-b576-8b5246824b17)
 
 <h3> Data Collection :</h3>
 
