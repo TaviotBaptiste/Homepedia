@@ -1,0 +1,31 @@
+version: '3.3'
+services:
+  # Apache Hadoop (ResourceManager, NodeManager, NameNode, DataNode)
+  hadoop:
+    container_name: hadoop
+    image: harisekhon/hadoop:2.9
+    restart: always
+    environment:
+      - SSH_GenerateKey=no #Pas besoin de générer une clef à chaque fois
+    ports:
+      - "8042:8042"
+      - "8088:8088"
+      - "19888:19888"
+      - "50070:50070"
+      - "50075:50075"
+
+  # Apache Spark
+  spark:
+    container_name: spark
+    image: spark:python3
+    restart: unless-stopped
+    command: /opt/spark/bin/pyspark
+    tty: true
+    stdin_open: true
+    ports:
+      - "4040:4040"
+
+#volumes:
+  #mysql-volume:
+  #mongo-volume:
+

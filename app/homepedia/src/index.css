@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body
+{
+  margin: 0;
+}
+
+/* Utils */
+.clickable {
+  cursor: pointer;
+}
+
+/* Animations */
+.zoom-box {
+  animation: zoomAnimation 2s infinite;
+}
+
+@keyframes zoomAnimation {
+  0% {
+    width: 80px;
+    height: 80px;
+  }
+  50% {
+    width: 180px;
+    height: 180px;
+  }
+  100% {
+    width: 80px;
+    height: 80px;
+  }
+}
